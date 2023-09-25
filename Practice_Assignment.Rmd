@@ -1,0 +1,13 @@
+---
+title: "GitHub Practice Assignment"
+author: "Your Name"
+output: pdf_document
+date: "2023-09-25"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a practice assignment, intended to make sure you can commit and push files to GitHub. Please add your name as the author in the heading, then commit and push the file to GitHub. Be sure to check that the updated file that includes your name shows up in the class's GitHub Repository.   
+
